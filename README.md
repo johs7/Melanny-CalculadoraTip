@@ -4,3 +4,5 @@ Holi >< jJASJKAJS no te preocupes sino le entiendes nada al sitio web,te dejo un
 
 ahora, ¿como funciona la calculadora?
 tenes el div de <<cuenta>> donde vos metes como por ejemplo el saldo total y luego abajito tenes las propinas a elegir y una opcion personalizada de la propina que quieras ingresar,luego esta lo de el numero de personas,esa aprte del numero de personas es bien importante ya que los calculos que se hacen en el sitio web se dan por persona por ejemplo una cuenta de 200 con una  propina de 10% la propina sera de 20 cordobas y la propina por persona sera en este caso si nada mas andan dos personas de 10 cordobas cada una,quedando la cuenta total por persona de 110 cordobas cada una. 200 de la cuenta mas 20 de propina. igual cualquier cosa me consultas y yo busco como ayudarte en algo o si queres algo mas avanzado pues también,la cosa es que parezca que vos lo hicistes pero todo bien.
+- [Credits](#credits) 
+  Johanssen Roque
