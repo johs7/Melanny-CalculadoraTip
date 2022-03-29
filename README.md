@@ -10,3 +10,5 @@ tenes el div de <<cuenta>> donde vos metes como por ejemplo el saldo total y lue
   ----------------------------------------------
   https://fluttering-aboard-telescope.glitch.me/ <---- WEB
   ----------------------------------------------
+                                                       
+                                                       te lo subi por aca para que no crean que lo sacastes de internet,aca tenes todo el codigo fuente del sitio web el cual lo subi y genere esa pagina web
